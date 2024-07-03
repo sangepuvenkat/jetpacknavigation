@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_name">jetpackapplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="Confirm">Confirm Your OTP</string>
+    <string name="OTP_mismatched">OTP is Incorrect</string>
+</resources>
